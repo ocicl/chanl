@@ -1,0 +1,9 @@
+* chanl
+
+Portable channel-based concurrency for Common Lisp
+
+|---------+---------------------------------------|
+| source  | git:https://github.com/zkat/chanl.git |
+| commit  | dec1dcf                               |
+| systems | chanl                                 |
+|---------+---------------------------------------|
