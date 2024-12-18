@@ -4,6 +4,6 @@ Portable channel-based concurrency for Common Lisp
 
 |---------+---------------------------------------|
 | source  | git:https://github.com/zkat/chanl.git |
-| commit  | 17a5944                               |
+| commit  | d673c7b                               |
 | systems | chanl                                 |
 |---------+---------------------------------------|
